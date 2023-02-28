@@ -8,4 +8,3 @@
 
 ## Ссылка на проект
 https://ipmakd.github.io/russian-travel/
-
