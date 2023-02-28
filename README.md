@@ -6,5 +6,7 @@
 * работа с Grid;
 * отработка работы с методологией БЭМ;
 
+## Ссылка на проект
+https://ipmakd.github.io/russian-travel/
 
 
