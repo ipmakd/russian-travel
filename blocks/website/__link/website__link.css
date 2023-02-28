@@ -1,13 +1,13 @@
 .website__link {
   margin: 0;
   font-weight: 400;
-font-size: 18px;
-line-height: 22px;
-text-decoration-line: underline;
-color: #FFFFFF;
-opacity: 1;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+  opacity: 1;
 }
 
 .website__link:hover {
-opacity: 0.8;
+  opacity: 0.8;
 }

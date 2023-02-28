@@ -2,20 +2,19 @@
   margin: 0 auto;
   max-width: 360px;
   font-weight: 400;
-font-size: 18px;
-line-height: 22px;
-text-align: center;
-position: relative;
-z-index: 2;
-padding-top: 32px;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  position: relative;
+  z-index: 2;
+  padding-top: 32px;
 }
 
-  @media screen and (max-width: 560px) {
-    .cover__subtitle {
-      max-width: 288px;
-      font-size: 14px;
-      line-height: 16px;
-      padding-top: 16px;
-    }
+@media screen and (max-width: 560px) {
+  .cover__subtitle {
+    max-width: 288px;
+    font-size: 14px;
+    line-height: 16px;
+    padding-top: 16px;
   }
-  
+}
