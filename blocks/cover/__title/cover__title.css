@@ -8,23 +8,10 @@
   position: relative;
 }
 
-@media screen and (max-width: 1024px) {
-  .cover__title {
-  
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .cover__title {
-    
-  }
-}
-
 @media screen and (max-width: 560px) {
   .cover__title {
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
-  
   }
 }
