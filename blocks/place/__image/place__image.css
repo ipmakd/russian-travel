@@ -6,7 +6,7 @@
 
 @media screen and (max-width: 615px) {
   .place__image {
-    margin: 0 -16px;
+    justify-self: center;
     width: calc(100% + 32px);
   }
 }
